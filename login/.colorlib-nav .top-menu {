@@ -1,0 +1,7 @@
+.colorlib-nav .top-menu {
+	padding: 10px;
+}
+
+.colorlib-nav ul {
+	margin:20px;
+}
